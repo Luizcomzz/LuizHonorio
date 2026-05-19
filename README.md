@@ -2,8 +2,9 @@
 
   - 🧮 Atualmente sou professor de Matemática
   - 👨🏾‍🔬 Mestrando em Ensino da Matemática
-  - 🌱 No processo de "Transição de Carreira" para área de Dados
-  - 📚 Estudanto Python, Power BI e SQL
+  - 🖥️ Estudante de Engenharia da computação/Ciencia de dados
+  - 🌱 No processo de "Transição de Carreira" para área de Dados e tecnologia
+  - 📚 EstudandoPython, Power BI e SQL, por meio de projetos de analises e visualilção de dados
 
   <div style="display: inline-block"><br>
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
